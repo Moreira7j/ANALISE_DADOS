@@ -1,0 +1,3 @@
+Esse foi um projeto de análise de dados feito durante a jornada python da hashtag. Ele utiliza uma lista de dados que simula uma empresa com problemas de cancelamento de assinaturas.
+Esse script cria gráficos que relacionam o cancelamento à diversas informações dadas. Por exemplo, ele cria um gráfico relacionando "ligações para a central de atendimento" ao números de cancelamentos respectivos.
+Ao final do código, foi deixado possíveis causas de cancelamento das assinaturas e trazendo uma possível resolução para esse problema, além de enfatizar o percentual de cancelamento caindo de 56% para 19% apenas "resolvendo" esses principais problemas.
